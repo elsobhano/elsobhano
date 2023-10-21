@@ -4,10 +4,10 @@
 </a>
 <br/ ><br/ >
 
-As a Data Scientist and Machine Learning Engineer, I worked independently and as a team member for several projects, including face forgery detection, voice activity detection, speech enhancement, etc. My desire to learn more about Machine Learning, Deep Learning, their applications and deploy them into real-world models.
+As a Data Scientist and Machine Learning Engineer, I worked independently and as a team member for several projects, including face forgery detection, voice activity detection, speech enhancement, etc. My desire is to learn more about Machine Learning, Deep Learning, their applications and deploy them into real-world models.
 
 
-## Hello, My name is Arya!
+## Hello, My name is Sobhan!
 - 🔭 I’m currently working on Forgery detection and Self-supervised Learning
 - 📋 Previously worked on Speech Recognition, Speech Emotion Recognition, and Tiny Machine Learning
 - 🎓 Master of Electrical Engineering (Communication Systems), Sharif University of Technology
@@ -15,6 +15,6 @@ As a Data Scientist and Machine Learning Engineer, I worked independently and as
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaAftab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsobhano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=AryaAftab&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=elsobhano&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
