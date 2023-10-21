@@ -14,6 +14,7 @@ As a Data Scientist and Machine Learning Engineer, I worked independently and as
 - 🎓 Bachelor of Electrical Engineering (Communication Systems), Amirkabir University of Technology
 
 ## GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsobhano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Arya's github stats](https://github-readme-stats.vercel.app/api?username=elsobhano&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
