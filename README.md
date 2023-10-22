@@ -12,6 +12,8 @@ As a Data Scientist and Machine Learning Engineer, I worked independently and as
 - 📋 Previously worked on Speech Recognition, Speech Emotion Recognition, and Tiny Machine Learning
 - 🎓 Master of Electrical Engineering (Communication Systems), Sharif University of Technology
 - 🎓 Bachelor of Electrical Engineering (Communication Systems), Amirkabir University of Technology
+- 📫 How to reach me : asasi.sobhan@gmail.com
+
 
 ## GitHub Stats
 
