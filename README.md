@@ -8,8 +8,9 @@ As a Data Scientist and Machine Learning Engineer, I worked independently and as
 
 
 ## Hello, My name is Sobhan!
-- 🔭 I’m currently working on Forgery detection and Self-supervised Learning
-- 📋 Previously worked on Speech Recognition, Speech Emotion Recognition, and Tiny Machine Learning
+- 🔭 I'm currently focused on developing Visual-Language Models for Sign Language Translation. 
+- 📋 Previously worked on Speech Recognition, Speech Emotion Recognition.
+- 🎓 PhD at CVSSP (University of Surrey)
 - 🎓 Master of Electrical Engineering (Communication Systems), Sharif University of Technology
 - 🎓 Bachelor of Electrical Engineering (Communication Systems), Amirkabir University of Technology
 - 📫 How to reach me : asasi.sobhan@gmail.com
