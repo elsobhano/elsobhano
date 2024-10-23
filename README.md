@@ -3,6 +3,7 @@
   <img align="left" alt="Sobhan's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/30603302/178332458-6c20ad98-ca7f-44a3-b09b-2849cf7fcaed.png" />
 </a>
 <br/ ><br/ >
+
 ## Hello, My name is Sobhan!
 - 🔭 I'm currently focused on developing Visual-Language Models for Sign Language Translation. 
 - 📋 Previously worked on Speech Recognition, Speech Emotion Recognition.
