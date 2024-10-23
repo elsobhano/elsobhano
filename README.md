@@ -3,10 +3,6 @@
   <img align="left" alt="Sobhan's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/30603302/178332458-6c20ad98-ca7f-44a3-b09b-2849cf7fcaed.png" />
 </a>
 <br/ ><br/ >
-
-As a Data Scientist and Machine Learning Engineer, I worked independently and as a team member for several projects, including face forgery detection, voice activity detection, speech enhancement, etc. My desire is to learn more about Machine Learning, Deep Learning, their applications and deploy them into real-world models.
-
-
 ## Hello, My name is Sobhan!
 - 🔭 I'm currently focused on developing Visual-Language Models for Sign Language Translation. 
 - 📋 Previously worked on Speech Recognition, Speech Emotion Recognition.
