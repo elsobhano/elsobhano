@@ -13,8 +13,3 @@
 - 📫 How to reach me : asasi.sobhan@gmail.com
 
 
-## GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsobhano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=elsobhano&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
